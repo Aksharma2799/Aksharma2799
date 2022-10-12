@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://codepen.io/aksharma2799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aksharma2799" height="30" width="40" /></a>
 <a href="https://twitter.com/aksharma2799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aksharma2799" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/ashish-vishwakarma-4b12b21a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/ashish-vishwakarma-4b12b21a3" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-vishwakarma-4b12b21a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/ashish-vishwakarma-4b12b21a3" height="30" width="40" /></a>
 <a href="https://instagram.com/aksharma2799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aksharma2799" height="30" width="40" /></a>
 </p>
 
