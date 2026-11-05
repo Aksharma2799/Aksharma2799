@@ -25,7 +25,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,spring,java,javascript,ts,c,cpp,cs,swift,mongodb,mysql,linux,postman,figma,arduino,bootstrap&perline=6" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express,postgres,mongodb,mysql,java,cpp,c,js,ts,docker,aws,html,css,git,postman&perline=6" />
 </p>
 
 ---
@@ -33,32 +33,31 @@
 <h3 align="center">My Github Stats & Trophies:</h3>
 
 <p align="center">
-  <a href="https://github.com/aksharma2799/github-readme-stats">
-    <img align="center" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.profile/api?username=aksharma2799&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img align="center" alt="Ashish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Aksharma2799&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
+<br/>
+
 <p align="center">
-  <a href="https://github.com/aksharma2799/github-readme-stats">
-    <img align="center" alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aksharma2799&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
+  <img align="center" alt="Ashish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aksharma2799&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
+
+<br/>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aksharma2799&theme=react&no-bg=true&margin-w=5&margin-h=5" alt="Ashish's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aksharma2799&theme=react&no-bg=true&margin-w=5&margin-h=5" alt="Ashish's Trophies" />
 </p>
 
 ---
 
-<h3 align="center">Contribution Graph:</h3>
+<h3 align="center">Contribution Streak & Activity:</h3>
+
 <p align="center">
-  <a href="https://github.com/aksharma2799/github-readme-activity-graph">
-    <img alt="Ashish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aksharma2799&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
+  <img alt="Ashish's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aksharma2799&theme=react&background=0D1117&hide_border=true" />
 </p>
 
 <!-- Profile Visitor Count -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aksharma2799&color=5bcdec&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Aksharma2799&color=5bcdec&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
