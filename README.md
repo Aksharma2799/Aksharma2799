@@ -36,12 +36,66 @@
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">📌 Top 5 Recent Repositories</h3>
 
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Notes Maker App** | Full-stack note-taking app with real-time updates and formatting | `React` `Node.js` `MongoDB` | [View Repo](https://github.com/Aksharma2799/Notes-Maker-App) |
-| **Portfolio Website** | Modern personal portfolio showcasing projects and contact details | `HTML` `CSS` `JS` | [View Repo](https://github.com/Aksharma2799) |
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">1. Notes Maker App</h3>
+      <p align="center">Full-stack note-taking web application with real-time editing and formatting features.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p align="center">👉 <a href="https://github.com/Aksharma2799/Notes-Maker-App">View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">2. E-Commerce API Service</h3>
+      <p align="center">Scalable RESTful API backend with PostgreSQL data modeling and user authentication.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      </p>
+      <p align="center">👉 <a href="https://github.com/Aksharma2799">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">3. Online Test Management System</h3>
+      <p align="center">Assessment system featuring automated test generation and candidate tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      </p>
+      <p align="center">👉 <a href="https://github.com/Aksharma2799">View Repository</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">4. Badminton Scoreboard App</h3>
+      <p align="center">Real-time match scoring and video overlay application for web browsers.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+      <p align="center">👉 <a href="https://github.com/Aksharma2799">View Repository</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>5. Portfolio Website</h3>
+      <p>Personal portfolio application showcasing technical projects, skills, and interactive features.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>👉 <a href="https://github.com/Aksharma2799">View Repository</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
