@@ -87,9 +87,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Project 3</h3>
+      <h3 align="center">Online Test Management System </h3>
       <p align="center">
-        Add your strongest Java, Spring Boot or Angular application here.
+        The Online Test Management System aims to provide a digital platform for managing online tests and examination-related activities.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -97,7 +97,7 @@
         <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
       </p>
       <p align="center">
-        <a href="https://github.com/Aksharma2799">Explore Repositories →</a>
+        <a href="https://github.com/Aksharma2799/Online-Test-Management-System">Explore Repositories →</a>
       </p>
     </td>
     <td width="50%" valign="top">
