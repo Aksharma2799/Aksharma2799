@@ -71,17 +71,18 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project 2</h3>
+      <h3 align="center">DealKindred</h3>
       <p align="center">
-        Add your strongest backend or REST API project here.
+        DealKindred is a full-stack coupon-sharing demo. People can publish coupons, browse active deals, claim a coupon, and track redemption. Coupon owners get a private view of claims and redeemers. Affiliate offers live in a separate area from community coupons.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/Database-4479A1?style=flat-square&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       </p>
       <p align="center">
-        <a href="https://github.com/Aksharma2799">Explore Repositories →</a>
+        <a href="https://github.com/Aksharma2799/Dealkindred">Explore Repositories →</a>
       </p>
     </td>
   </tr>
