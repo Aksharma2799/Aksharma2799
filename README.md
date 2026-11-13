@@ -102,15 +102,19 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Project 4</h3>
+      <h3 align="center">Chat application</h3>
       <p align="center">
-        Add another polished full-stack or frontend application here.
+        One-to-one chat application using Node.js, TypeScript, PostgreSQL, Firebase Firestore.
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-      </p>
+         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+         <!-- <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/> -->
+         <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> -->
+         <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+       </p>
       <p align="center">
         <a href="https://github.com/Aksharma2799">Explore Repositories →</a>
       </p>
